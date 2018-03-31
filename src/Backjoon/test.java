@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 public class test {
 	   
-
+		//test
 	   public static void main(String[] args) throws Exception {
 	        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
 	            final int T = Integer.parseInt(br.readLine().trim());
