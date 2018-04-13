@@ -32,20 +32,21 @@ public class Maze {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br =new BufferedReader(new InputStreamReader(System.in));
 		String temp[];
+		String tmp;
 		temp=br.readLine().split(" ");
 		N=Integer.parseInt(temp[0]);
 		M=Integer.parseInt(temp[1]);
 		map=new int[N][M];
 		length=new int[N][M];
 		for(int i=0;i<N;i++) {
-			temp=br.readLine().split(" ");
+			tmp=br.readLine();
 			for(int j=0;j<M;j++) {
-				map[i][j]=Integer.parseInt(temp[j]);
+				map[i][j]=tmp.charAt(j)-'0';
 			}
 		}
-		
+		length[0][0]=1;
 		bfs(0,0);
-		System.out.println(map[N-1][M-1]);
+		System.out.println(length[N-1][M-1]);
 		
 		
 		
@@ -55,19 +56,25 @@ public class Maze {
 		q.offer(new Position(i,j));
 		int nexti;
 		int nextj;
+		
 		while(!q.isEmpty()) {
 			Position p=q.poll();
-			for(int c=0;i<4;i++) {
+			map[i][j]=0;
+			for(int c=0;c<4;c++) {
 				nexti=p.i+di[c];
 				nextj=p.j+dj[c];
 				if(nexti<0||nextj<0||nexti>=N||nextj>=M) {
 					continue;
 				}
+				
 				if(map[nexti][nextj]==0) {
 					continue;
 				}
 				q.offer(new Position(nexti,nextj));
-				length[nexti][nextj]=map[p.i][p.j]+1;
+				length[nexti][nextj]=length[p.i][p.j]+1;
+				
+				
+				
 				map[nexti][nextj]=0;
 				
 				
