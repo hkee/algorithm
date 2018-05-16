@@ -25,3 +25,14 @@ Number   | Name       | File Name
 ---------
 Samsung swexpert
 ============
+https://github.com/hkee/algorithm/tree/master/src/Samsung
+
+Number   | Name                  | File Name
+-------- | --------------------- | ---------
+1767     | 프로세서 연결하기     | Core.java
+2112     | 보호 필름             | Film.java
+2115     | 벌꿀 채취             | Honey.java
+2382     | 미생물 격리           | Microbe.java
+4014     | 활주로 건설           | Runway.java
+1952     | 수영장                | Swim.java
+1949     | 등산로 조성           | Trail.java
