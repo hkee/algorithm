@@ -3,9 +3,9 @@ Algorithm
 This repository has  algorithmic solutions implemented in Java.
 
 ----------
-reference
+Reference
 ============
-baekjoon problem https://www.acmicpc.net/
+baekjoon problem https://www.acmicpc.net/ <br>
 swexpert problem https://www.swexpertacademy.com/
 ----------
 baekjoon
