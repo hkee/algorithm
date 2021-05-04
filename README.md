@@ -22,6 +22,7 @@ Number   | Name       | File Name
 14502    | 연구소     | Lab.java
 14501    | 퇴사       | Retire.java
 15649    | N과 M      | Permutation.java
+15650    | N과 M(2)   | Combination.java
 
 ---------
 Samsung swexpert
