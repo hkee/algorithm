@@ -23,7 +23,7 @@ Number   | Name       | File Name
 14501    | 퇴사       | Retire.java
 15649    | N과 M      | Permutation.java
 15650    | N과 M(2)   | Combination.java
-
+9663     | N-Queen    | Nqueen.java
 ---------
 Samsung swexpert
 ============

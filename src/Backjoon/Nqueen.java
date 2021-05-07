@@ -35,8 +35,8 @@ public class Nqueen {
     }
     public static int searchNE(int x,int y) {
         int roop = N-1-x < y ? N-1-x : y;
-        for(int i=0;i<roop;i++) {
-            if(map[y-1][x+1]==1) {
+        for(int i=1;i<=roop;i++) {
+            if(map[y-i][x+i]==1) {
                 return 1;
             }
         }
@@ -44,8 +44,8 @@ public class Nqueen {
     }
     public static int searchNW(int x, int y) {
         int roop = x < y ? x : y;
-        for(int i=0;i<roop;i++) {
-            if(map[y-1][x-1]==1) {
+        for(int i=1;i<=roop;i++) {
+            if(map[y-i][x-i]==1) {
                 return 1;
             }
         }
