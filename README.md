@@ -24,6 +24,8 @@ Number   | Name       | File Name
 15649    | N과 M      | Permutation.java
 15650    | N과 M(2)   | Combination.java
 9663     | N-Queen    | Nqueen.java
+1260     | DFS와 BFS  | DfsAndBfs.java
+
 ---------
 Samsung swexpert
 ============
