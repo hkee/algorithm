@@ -25,6 +25,7 @@ Number   | Name       | File Name
 15650    | N과 M(2)   | Combination.java
 9663     | N-Queen    | Nqueen.java
 1260     | DFS와 BFS  | DfsAndBfs.java
+7576     | 토마토     | Tomato.java
 
 ---------
 Samsung swexpert
