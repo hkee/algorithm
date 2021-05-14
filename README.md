@@ -28,7 +28,7 @@ Number   | Name       | File Name
 7576     | 토마토     | Tomato.java
 2667     |단지번호 붙이기 | ComplexNumber.java
 16968    |차량번호판1  | CarNumber.java
-1010     |다리놓기     | Bridge.java
+1010     |다리놓기     | Bridge.java  
 ---------
 Samsung swexpert
 ============
