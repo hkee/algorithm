@@ -29,6 +29,8 @@ Number   | Name       | File Name
 2667     |단지번호 붙이기 | ComplexNumber.java
 16968    |차량번호판1  | CarNumber.java
 1010     |다리놓기     | Bridge.java  
+1157     |단어공부     | Word.java
+2675     |문자열 반복  | StringLoop.java
 ---------
 Samsung swexpert
 ============
