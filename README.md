@@ -31,6 +31,9 @@ Number   | Name       | File Name
 1010     |다리놓기     | Bridge.java  
 1157     |단어공부     | Word.java
 2675     |문자열 반복  | StringLoop.java
+1316     |그룹단어 체크 | GroupWord.java
+2941     |크로아티아알파벳 | Croatia.java
+5622     |다이얼       | Dial.java
 ---------
 Samsung swexpert
 ============
