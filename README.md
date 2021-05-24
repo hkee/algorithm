@@ -35,6 +35,7 @@ Number   | Name       | File Name
 2941     |크로아티아알파벳 | Croatia.java
 5622     |다이얼       | Dial.java
 4963     |섬의 개수     | IslandCount.java
+1012     | 유기농 배추  | Cabbage.java
 ---------
 Samsung swexpert
 ============
