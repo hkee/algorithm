@@ -38,6 +38,7 @@ Number   | Name       | File Name
 1012     | 유기농 배추  | Cabbage.java
 2644     | 촌수 계산    | FamilyCount.java
 16236    | 아기상어     | BabyShark.java
+1966     | 프린터큐     | PrintQueue.java
 ---------
 Samsung swexpert
 ============
