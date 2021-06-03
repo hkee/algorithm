@@ -40,6 +40,7 @@ Number   | Name       | File Name
 16236    | 아기상어     | BabyShark.java
 1966     | 프린터큐     | PrintQueue.java
 2573     | 빙산         | Iceberg.java
+1032     | 명령프롬프트 | Cmd.java
 ---------
 Samsung swexpert
 ============
