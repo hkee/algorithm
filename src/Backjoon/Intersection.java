@@ -13,18 +13,24 @@ public class Intersection {
         n = Integer.parseInt(temp[0]);
         m = Integer.parseInt(temp[1]);
         List<String> see = new ArrayList<String>();
-        List<String> hear = new ArrayList<String>();
+        List<String> result = new ArrayList<String>();
         for(int i=0;i<n;i++) {
             see.add(br.readLine());
         }
-        for(int i=0;i<m;i++) {
-            hear.add(br.readLine());
-        }
         Collections.sort(see);
-        Collections.sort(hear);
-        see.retainAll(hear);
-        for(int i=0;i<see.size();i++) {
-            System.out.println(see.get(i));
+        int index;
+        for(int i=0;i<m;i++) {
+            String target=br.readLine();
+            index = Collections.binarySearch(see, target);
+            if(index>=0) {
+                result.add(target);
+            }
+        }
+        Collections.sort(result);
+        
+        System.out.println(result.size());
+        for(int i=0;i<result.size();i++) {
+            System.out.println(result.get(i));
         }
 
     }
