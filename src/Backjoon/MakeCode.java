@@ -7,6 +7,8 @@ import java.util.ArrayList;
 public class MakeCode {
     static ArrayList<Character> vowels;
     static ArrayList<Character> consonants;
+    static ArrayList<Character> vSelected;
+    static ArrayList<Character> cSelected;
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String temp[] = br.readLine().split(" ");
@@ -24,27 +26,16 @@ public class MakeCode {
         }
         int vc = 1;
         ArrayList<String> result = new ArrayList<>();
+        vSelected = new ArrayList<>();
+        cSelected = new ArrayList<>(); 
+        boolean vCheck[] = new boolean[vowels.size()];
+        boolean cCheck[] = new boolean[consonants.size()];
         while(vc<=5 && (L-vc)>=2) {
-
+            
         }
         
 
 
     }
-    public static void combi (boolean check[],int depth,int n,int m) {
-        if(m==0) {
-            for(int i=0;i<n;i++) {
-                if(check[i]==true) {
-                    
-                }
-            }
-            System.out.println();
-            return;
-        }
-        for(int i=depth;i<n;i++) {
-            check[i]=true;
-            combi(check,i+1,n,m-1);
-            check[i]=false;
-        }
-    }
+    
 }
