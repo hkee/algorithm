@@ -46,6 +46,7 @@ Number   | Name       | File Name
 1181     | 단어정렬     | WordSort.java
 10814    | 나이순 정렬   | MemberSort.java
 1541     | 잃어버린 괄호 | MinimumBracket.java
+1759     | 암호만들기   | MakeCode.java
 
 ---------
 Samsung swexpert
