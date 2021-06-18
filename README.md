@@ -50,6 +50,7 @@ Number   | Name       | File Name
 2902     | KMP는 왜 KMP일까 | KMP.java
 10773    | 제로         | Zero.java
 5430     | AC           | AC.java
+10988    | 팰린드롬인지 확인하기| Palindrome.java
 ---------
 Samsung swexpert
 ============
