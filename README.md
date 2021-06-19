@@ -51,6 +51,7 @@ Number   | Name       | File Name
 10773    | 제로         | Zero.java
 5430     | AC           | AC.java
 10988    | 팰린드롬인지 확인하기| Palindrome.java
+1212     | 8진수 2진수   | OctalToBinary.java
 ---------
 Samsung swexpert
 ============
