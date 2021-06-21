@@ -52,6 +52,7 @@ Number   | Name       | File Name
 5430     | AC           | AC.java
 10988    | 팰린드롬인지 확인하기| Palindrome.java
 1212     | 8진수 2진수   | OctalToBinary.java
+10798    | 세로읽기      | VerticalRead.java
 ---------
 Samsung swexpert
 ============
