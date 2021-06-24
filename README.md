@@ -54,6 +54,7 @@ Number   | Name       | File Name
 1212     | 8진수 2진수   | OctalToBinary.java
 10798    | 세로읽기      | VerticalRead.java
 10820    | 문자열 분석   | StringAnalysis.java
+1120     | 문자열        | DifferenceString.java
 ---------
 Samsung swexpert
 ============
