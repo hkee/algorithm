@@ -57,6 +57,7 @@ Number   | Name       | File Name
 1120     | 문자열        | DifferenceString.java
 9375     | 패션왕 신해빈 | FashionKing.java
 1743     | 음식물피하기  | AvoidFood.java
+2636     | 치즈         | Cheese.java
 ---------
 Samsung swexpert
 ============
