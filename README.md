@@ -58,6 +58,7 @@ Number   | Name       | File Name
 9375     | 패션왕 신해빈 | FashionKing.java
 1743     | 음식물피하기  | AvoidFood.java
 2636     | 치즈         | Cheese.java
+7567     | 그릇         | Dishes.java
 ---------
 Samsung swexpert
 ============
