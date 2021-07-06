@@ -61,6 +61,7 @@ Number   | Name       | File Name
 7567     | 그릇         | Dishes.java
 9093     | 단어뒤집기  | ReverseWord.java
 9935     | 문자열 폭발  | StringExplosion.java
+1357     | 뒤집힌 덧셈  | ReverseAddition.java
 ---------
 Samsung swexpert
 ============
