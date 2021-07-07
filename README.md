@@ -62,6 +62,7 @@ Number   | Name       | File Name
 9093     | 단어뒤집기  | ReverseWord.java
 9935     | 문자열 폭발  | StringExplosion.java
 1357     | 뒤집힌 덧셈  | ReverseAddition.java
+1373     | 2진수 8진수  | BinaryAndOctal.java
 ---------
 Samsung swexpert
 ============
