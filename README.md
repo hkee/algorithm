@@ -63,6 +63,7 @@ Number   | Name       | File Name
 9935     | 문자열 폭발  | StringExplosion.java
 1357     | 뒤집힌 덧셈  | ReverseAddition.java
 1373     | 2진수 8진수  | BinaryAndOctal.java
+1259     | 팰린드롬수   | PlindromeNumber.java
 ---------
 Samsung swexpert
 ============
