@@ -66,6 +66,7 @@ Number   | Name       | File Name
 1259     | 팰린드롬수   | PlindromeNumber.java
 1159     | 농구 경기    | BasketBall.java
 1225     | 이상한곱셈   | StrangeMultiplication.java
+4999     | 아!         | Ah.java
 ---------
 Samsung swexpert
 ============
