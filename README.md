@@ -67,6 +67,7 @@ Number   | Name       | File Name
 1159     | 농구 경기    | BasketBall.java
 1225     | 이상한곱셈   | StrangeMultiplication.java
 4999     | 아!         | Ah.java
+5218     | 알파벳거리   | AlphabetDistance.java
 ---------
 Samsung swexpert
 ============
