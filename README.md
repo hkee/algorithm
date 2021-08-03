@@ -68,6 +68,7 @@ Number   | Name       | File Name
 1225     | 이상한곱셈   | StrangeMultiplication.java
 4999     | 아!         | Ah.java
 5218     | 알파벳거리   | AlphabetDistance.java
+3986     | 좋은 단어    | GoodWord.java
 ---------
 Samsung swexpert
 ============
