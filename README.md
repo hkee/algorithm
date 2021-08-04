@@ -69,6 +69,7 @@ Number   | Name       | File Name
 4999     | 아!         | Ah.java
 5218     | 알파벳거리   | AlphabetDistance.java
 3986     | 좋은 단어    | GoodWord.java
+10804    | 카드 역배치  | CardArrangement.java
 ---------
 Samsung swexpert
 ============
