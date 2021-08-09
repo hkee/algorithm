@@ -70,6 +70,7 @@ Number   | Name       | File Name
 5218     | 알파벳거리   | AlphabetDistance.java
 3986     | 좋은 단어    | GoodWord.java
 10804    | 카드 역배치  | CardArrangement.java
+5598     | 카이사르 암호 | CaesarCode.java
 ---------
 Samsung swexpert
 ============
